@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Bink de Wildt, a junior developer located in Leiden - The Netherlands.
-You might want to take a look at <a href="www.binkdewildt.com">my website</a> aswell, you can find more information there.
+I'm Bink de Wildt, a junior developer located in Leiden - The Netherlands.  
+You might want to take a look at <a href="https://www.binkdewildt.com">my website</a> aswell, you can find more information there.
 
 <!--
 **binkdewildt/binkdewildt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
