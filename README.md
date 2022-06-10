@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bink de Wildt, a junior developer located in Leiden - The Netherlands.  
+I'm Bink de Wildt, a junior developer located near Leiden - The Netherlands.  
 You might want to take a look at <a href="https://www.binkdewildt.com">my website</a> aswell, you can find more information there.
 
 <!--
